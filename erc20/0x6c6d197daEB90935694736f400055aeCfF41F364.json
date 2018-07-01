@@ -1,0 +1,28 @@
+{
+  "symbol": "TBKC",
+  "address": "0x6c6d197daEB90935694736f400055aeCfF41F364",
+  "overview":{
+        "en": "Tokenbank Chain",
+        "zh": "数字资产银行"
+  },
+  "email": "tbkchain@outlook.com",
+  "website": "http://tokenbank.ink/",
+  "whitepaper": "http://tokenbank.ink/files/TokenBank_business_white_paper_cn.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-06-30",
+  "initial_price":{
+        "ETH":"0.00001466 ETH",
+        "USD":"0.008 USD",
+        "BTC":"0.000001056 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
